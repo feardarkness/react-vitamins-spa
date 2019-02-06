@@ -8,7 +8,7 @@
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.3"
   },
-  "homepage": "",
+  "homepage": "https://feardarkness.github.io/react-vitamins-spa/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
