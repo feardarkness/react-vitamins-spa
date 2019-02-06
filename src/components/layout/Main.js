@@ -8,7 +8,7 @@ class Main extends Component {
     return (
       <main className="Main">
         <AppRoutes></AppRoutes>
-        <Link to='/Vitamins'>Vitamins</Link>
+        <Link to='/vitamins'>Vitamins</Link>
       </main>
     );
   }
