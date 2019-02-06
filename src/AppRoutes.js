@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 import { Switch, Route } from 'react-router-dom';
-import Home from '../components/Home';
-import NoMatch from '../components/NoMatch';
-import Vitamins from '../components/vitamins/Vitamins';
+import Home from './components/Home';
+import NoMatch from './components/NoMatch';
+import Vitamins from './components/vitamins/Vitamins';
 
-class Routes extends Component {
+class AppRoutes extends Component {
   render() {
     return (
       <Switch>
@@ -16,4 +16,4 @@ class Routes extends Component {
   }
 }
 
-export default Routes;
+export default AppRoutes;
